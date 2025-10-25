@@ -2,7 +2,7 @@
 
 A simple yet powerful **Movie Recommendation System** built with **Streamlit** and **Python**, using both **content-based** and **collaborative filtering** approaches — plus a **hybrid mode** that combines the best of both worlds.
 
-👉 **Live Demo:** [https://khadija-mouhtaj-mini-recommender-system.streamlit.app](https://khadija-mouhtaj-mini-recommender-system.streamlit.app)
+👉 **Live Demo:** [https://khadija-mouhtaj-mini-recommender-system.streamlit.app](https://mini-recommender-system.streamlit.app/)
 
 ---
 
@@ -94,3 +94,4 @@ Copier le code
 ---
 
 Just copy everything from the above block and paste it into your `README.md` file. Let me know if you 
+
