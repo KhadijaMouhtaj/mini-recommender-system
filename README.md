@@ -34,27 +34,27 @@ Copier le code
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-```bash
+```
 git clone https://github.com/KhadijaMouhtaj/mini-recommender-system.git
 cd mini-recommender-system
 2. Create a virtual environment (optional but recommended)
-bash
-Copier le code
+
 python -m venv venv
 venv\Scripts\activate   # On Windows
 # or
 source venv/bin/activate  # On macOS/Linux
 3. Install dependencies
-bash
-Copier le code
+
+
 pip install -r requirements.txt
 4. Run the Streamlit app
-bash
-Copier le code
-streamlit run app.py
-The app will be available at 👉 http://localhost:8501
 
-🧠 Tech Stack
+streamlit run app.py
+
+---
+###The app will be available at 👉 http://localhost:8501
+
+## 🧠 Tech Stack
 Python 3.x
 
 Streamlit
@@ -94,4 +94,5 @@ Copier le code
 ---
 
 Just copy everything from the above block and paste it into your `README.md` file. Let me know if you 
+
 
