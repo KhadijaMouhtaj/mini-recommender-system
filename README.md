@@ -34,7 +34,7 @@ Copier le code
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-```
+```bash
 git clone https://github.com/KhadijaMouhtaj/mini-recommender-system.git
 cd mini-recommender-system
 2. Create a virtual environment (optional but recommended)
@@ -50,9 +50,9 @@ pip install -r requirements.txt
 4. Run the Streamlit app
 
 streamlit run app.py
-
+```
 ---
-###The app will be available at 👉 http://localhost:8501
+### The app will be available at 👉 http://localhost:8501
 
 ## 🧠 Tech Stack
 Python 3.x
@@ -66,8 +66,8 @@ NumPy
 Scikit-learn
 
 MovieLens 100K Dataset
-
-🎓 About the Project
+----
+### 🎓 About the Project
 This mini-project was developed as part of an academic exploration in Recommender Systems and Machine Learning.
 It demonstrates the practical implementation of:
 
@@ -88,11 +88,9 @@ This project is open source and available under the MIT License.
 
 ⭐ If you like this project, don't forget to star the repo!
 
-yaml
-Copier le code
 
----
 
-Just copy everything from the above block and paste it into your `README.md` file. Let me know if you 
+
+
 
 
